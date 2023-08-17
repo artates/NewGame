@@ -766,7 +766,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1445762871}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe307d54aa4b4384988b895681316542, type: 3}
+  m_Script: {fileID: 11500000, guid: b3bca7004ae3d444bbd62c703d654fcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Button_Back_Setting: {fileID: 0}
@@ -977,7 +977,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1789520528}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cee521f2be69a3c4782dad9d26fec11a, type: 3}
+  m_Script: {fileID: 11500000, guid: 4fae84e742f11744d86a9b161049c512, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   ScoreText: {fileID: 0}

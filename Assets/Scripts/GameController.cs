@@ -39,6 +39,7 @@ public class GameController : MonoBehaviour
     {
         Button_Back_Setting = GameObject.Find("Button_Back_Setting").GetComponent<Button>();
         Button_Back_Setting.onClick.AddListener(delegate { LoadSceneByNumber(0); });
+        
     }
 
     //Callback funtion for moving in between scenes
@@ -62,6 +63,7 @@ public class GameController : MonoBehaviour
     public void LoadMenu()
     {
         LoadSceneByNumber(0);
+        
     }
 
    

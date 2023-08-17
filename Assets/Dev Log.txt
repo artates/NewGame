@@ -2,9 +2,15 @@ last session just made blank project
 
 This section making scenes
 
+ALL BUTTONS THAT SHOULD BRING YOU TO NEW SCENES ARE WORKING CURRENTLY. 
+GENERAL ISSUE WITH SCRIPTS BEING REMOVED FROM GAME OBJECTS
+
+
 Things to Do
+ALL CONTROLLS MUST WORK WITH CONTROLLER PRIMARY
 -Make game working with all scenes and stuff
 -Make sure gameplay works
 -music
 -Assets 
 -Polish
+-make sure graphics look good on multiple aspect ratios but also mainly for 1080p

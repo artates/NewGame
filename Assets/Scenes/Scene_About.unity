@@ -1016,7 +1016,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: ddee56f4e64c85c438438088755617e3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 10d34ab9bc3ea7f4cbd6399670de3b13, type: 3}
   m_Color: {r: 0.44705883, g: 1, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1053,7 +1053,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1986473789}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe307d54aa4b4384988b895681316542, type: 3}
+  m_Script: {fileID: 11500000, guid: b3bca7004ae3d444bbd62c703d654fcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Button_Back_Setting: {fileID: 0}
@@ -1062,6 +1062,7 @@ MonoBehaviour:
   Button_ToAbout: {fileID: 0}
   Button_ToSettings: {fileID: 0}
   Button_Menu_Quit: {fileID: 0}
+  GameOver: {fileID: 0}
 --- !u!4 &1986473791
 Transform:
   m_ObjectHideFlags: 0

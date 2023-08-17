@@ -1388,7 +1388,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1747928796}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe307d54aa4b4384988b895681316542, type: 3}
+  m_Script: {fileID: 11500000, guid: b3bca7004ae3d444bbd62c703d654fcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Button_Back_Setting: {fileID: 0}
@@ -1397,6 +1397,7 @@ MonoBehaviour:
   Button_ToAbout: {fileID: 0}
   Button_ToSettings: {fileID: 0}
   Button_Menu_Quit: {fileID: 0}
+  GameOver: {fileID: 0}
 --- !u!4 &1747928798
 Transform:
   m_ObjectHideFlags: 0

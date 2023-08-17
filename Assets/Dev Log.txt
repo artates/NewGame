@@ -1,1 +1,10 @@
 last session just made blank project
+
+This section making scenes
+
+Things to Do
+-Make game working with all scenes and stuff
+-Make sure gameplay works
+-music
+-Assets 
+-Polish

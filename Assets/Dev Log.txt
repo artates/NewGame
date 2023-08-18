@@ -1,8 +1,8 @@
-last session just made blank project
+8/15 last session just made blank project
 
-This section making scenes
+8/16 This section making scenes
 
-TOMORROW DO MAIN GAMEPLAY
+8/17 TOMORROW DO MAIN GAMEPLAY
 
 ALL BUTTONS THAT SHOULD BRING YOU TO NEW SCENES ARE WORKING CURRENTLY. 
 GENERAL ISSUE WITH SCRIPTS BEING REMOVED FROM GAME OBJECTS

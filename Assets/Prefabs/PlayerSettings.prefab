@@ -40,9 +40,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 8132817444076485024}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3476525bb89589041b179ae4a482782d, type: 3}
+  m_Script: {fileID: 11500000, guid: 5beb55cca968c8e4286dc0c34811bc0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerName: 
-  ColorCode: 
+  color: 0
   GameDifficulty: 0
+  score: 0
+  GameOver: 0

@@ -203,7 +203,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -327,7 +327,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1d64893931f20874cb287860ccfdbbdd, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 43b84ad2573c0e64caaa815bd82defda, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -762,12 +762,12 @@ MonoBehaviour:
   obstacle4: {fileID: 0}
   minObstacleY: -4
   maxObstacleY: 5
-  minObstacleScaleY: 0
-  maxObstacleScaleY: 0
-  minObstacleScaleX: 0
-  maxObstacleScaleX: 0
-  minObstacleSpacing: 0
-  maxObstacleSpacing: 0
+  minObstacleScaleY: 3
+  maxObstacleScaleY: 6
+  minObstacleScaleX: 1
+  maxObstacleScaleX: 5
+  minObstacleSpacing: 4
+  maxObstacleSpacing: 10
 --- !u!1 &1013113141
 GameObject:
   m_ObjectHideFlags: 0
@@ -974,9 +974,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1089284510}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d265b73e8b91a7646a609c6977d08393, type: 3}
+  m_Script: {fileID: 11500000, guid: 85722d4fe32f92a40891a0db23b161b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Player: {fileID: 475667999}
 --- !u!1 &1100721354
 GameObject:
   m_ObjectHideFlags: 0
